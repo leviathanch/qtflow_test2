@@ -1,0 +1,17 @@
+syntax version:2.0 date:Nov  6 2017
+TIMESTAMP:Wed Nov 22 21:34:53 2017
+Statistics for counter:
+num_stdcells:105
+num_macros:0
+num_instances:0
+num_pads:0
+num_nets:108
+num_pins:332
+num_implicit_feeds:243
+num_equivs:243
+num_unequivs:0
+num_ports:0
+macro_area:0.000e+00
+tot_length:42000
+num_soft:1
+cell_height:1000

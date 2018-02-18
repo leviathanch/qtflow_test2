@@ -1,0 +1,602 @@
+
+TimberWolfSC version:v6.0 date:Nov  6 2017
+Row-Based Placement and Global Routing Program
+Authors: Carl Sechen, Kai-Win Lee, and Bill Swartz,
+         Yale University
+TimberWolf will perform a global route step
+feedThruWidth: 80
+track.pitch: 200
+route2act was not entered in the .par file
+route2act defaulted to track.pitch
+route2act: 200
+
+The random number generator seed is: 12345
+
+
+rowSep: 1.000000
+total cell length: 42000
+total block length: 44472
+block x-span:11118  block y-span:7000
+
+
+TIMING FACTOR (COMPUTED) : 4.000000
+Using default value of bin.penalty.control:1.000000
+Original Average Cell Width:400.000000
+Adjusted Average Cell Width:253.000000
+numBinsG automatically set to:44
+binWidthG = 253
+average_cell_width is:253
+standard deviation of cell length is:295.905
+TimberWolfSC starting from the beginning
+
+
+
+THIS IS THE ROUTE COST OF THE ORIGINAL PLACEMENT: 660724
+
+The number of nets with 1 pins is 8
+The number of nets with 2 pins is 50
+The number of nets with 3 pins is 20
+The number of nets with 4 pins is 16
+The number of nets with 5 pins is 8
+The number of nets with 6 pins is 2
+The number of nets with 8 pins is 1
+The number of nets with 9 pins is 1
+The number of nets with 15 pins is 1
+The number of nets with 16 pins is 1
+The number of nets with 100 pins or more is 0
+Average number of pins per net = 3.074074
+The maximum number of pins on a single net is:16
+
+Percentage of Nets Connecting to at least 2 cells:1.00
+Percentage of Nets Connecting to at least 3 cells:0.50
+Percentage of Nets Connecting to at least 4 cells:0.30
+Percentage of Nets Connecting to at least 5 cells:0.14
+Percentage of Nets Connecting to at least 6 cells:0.06
+
+bdxlen:11118  bdylen:7000
+l:-160  t:7300  r:10958  b:300
+
+
+
+THIS IS THE ROUTE COST OF THE CURRENT PLACEMENT: 660724
+
+
+
+THIS IS THE PENALTY OF THE CURRENT PLACEMENT: 18320
+block:1 desire:11118
+block:2 desire:11118
+block:3 desire:11118
+block:4 desire:11118
+Total Desired Length: 44472
+rowControl: 0.029     expected deviation above minimum:  3.85
+rowControl: 0.028     expected deviation above minimum:  0.00
+Total Wire Length - X-Component:138288
+Total Wire Length - Y-Component:89702
+Time Penalty:0
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET      DESIRE
+    1                 10080                -1038       11118
+    2                 10720                 -398       11118
+    3                 10880                 -238       11118
+    4                 10320                 -798       11118
+
+LONGEST Block is:3   Its length is:10880
+total penalty is 2472
+TimberWolfSC did call even_the_rows()
+Total Wire Length - X-Component:133697
+Total Wire Length - Y-Component:89702
+Time Penalty:0
+ the number of net = 108
+ the number of tilted segment = 56
+ the number of switchable L segment = 41
+Total Wire Length - X-Component:133927
+Total Wire Length - Y-Component:99532
+Time Penalty:0
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET      DESIRE
+    1                 10560                 -558       11118
+    2                 10480                 -638       11118
+    3                 10400                 -718       11118
+    4                 10560                 -558       11118
+
+LONGEST Block is:1   Its length is:10560
+ the number of tilted segment = 59
+ the number of switchable L segment = 62
+After Feeds are Added:
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560                  -558
+  2              10480                  -638
+  3              10400                  -718
+  4              10560                  -558
+
+LONGEST Row is:1   Its length is:10560
+Eliminated 0 unused feeds in the longest row
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560 
+  2              10480 
+  3              10400 
+  4              10560 
+
+long intEST Row is:1   Its length is:10560
+
+row lengths after steiner trees:
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET
+    1                 10560                 -558
+    2                 10480                 -638
+    3                 10400                 -718
+    4                 10560                 -558
+
+LONGEST Block is:1   Its length is:10560
+
+
+THIS IS THE ORIGINAL NUMBER OF TRACKS: 30
+
+
+no. of accepted flips: 8
+no. of attempted flips: 2700
+THIS IS THE NUMBER OF TRACKS: 28
+
+
+THIS G. ROUTING IS BEING SAVED AS BEST SO FAR
+
+FINAL NUMBER OF ROUTING TRACKS: 28
+
+MAX OF CHANNEL:  1  is:   3
+MAX OF CHANNEL:  2  is:  11
+MAX OF CHANNEL:  3  is:   3
+MAX OF CHANNEL:  4  is:   9
+MAX OF CHANNEL:  5  is:   2
+Actual # of Feed Cells Added:	0
+
+
+TimberWolfSC did call even_the_rows()
+Total Wire Length - X-Component:133697
+Total Wire Length - Y-Component:89702
+Time Penalty:0
+ the number of net = 108
+ the number of tilted segment = 56
+ the number of switchable L segment = 41
+Total Wire Length - X-Component:133927
+Total Wire Length - Y-Component:99532
+Time Penalty:0
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET      DESIRE
+    1                 10560                 -558       11118
+    2                 10480                 -638       11118
+    3                 10400                 -718       11118
+    4                 10560                 -558       11118
+
+LONGEST Block is:1   Its length is:10560
+ the number of tilted segment = 59
+ the number of switchable L segment = 63
+After Feeds are Added:
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560                  -558
+  2              10480                  -638
+  3              10400                  -718
+  4              10560                  -558
+
+LONGEST Row is:1   Its length is:10560
+Eliminated 0 unused feeds in the longest row
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560 
+  2              10480 
+  3              10400 
+  4              10560 
+
+long intEST Row is:1   Its length is:10560
+
+row lengths after steiner trees:
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET
+    1                 10560                 -558
+    2                 10480                 -638
+    3                 10400                 -718
+    4                 10560                 -558
+
+LONGEST Block is:1   Its length is:10560
+
+
+THIS IS THE ORIGINAL NUMBER OF TRACKS: 31
+
+
+no. of accepted flips: 29
+no. of attempted flips: 2700
+THIS IS THE NUMBER OF TRACKS: 28
+
+
+Actual # of Feed Cells Added:	0
+
+
+TimberWolfSC did call even_the_rows()
+Total Wire Length - X-Component:133697
+Total Wire Length - Y-Component:89702
+Time Penalty:0
+ the number of net = 108
+ the number of tilted segment = 56
+ the number of switchable L segment = 41
+Total Wire Length - X-Component:133927
+Total Wire Length - Y-Component:99532
+Time Penalty:0
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET      DESIRE
+    1                 10560                 -558       11118
+    2                 10480                 -638       11118
+    3                 10400                 -718       11118
+    4                 10560                 -558       11118
+
+LONGEST Block is:1   Its length is:10560
+ the number of tilted segment = 59
+ the number of switchable L segment = 62
+After Feeds are Added:
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560                  -558
+  2              10480                  -638
+  3              10400                  -718
+  4              10560                  -558
+
+LONGEST Row is:1   Its length is:10560
+Eliminated 0 unused feeds in the longest row
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560 
+  2              10480 
+  3              10400 
+  4              10560 
+
+long intEST Row is:1   Its length is:10560
+
+row lengths after steiner trees:
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET
+    1                 10560                 -558
+    2                 10480                 -638
+    3                 10400                 -718
+    4                 10560                 -558
+
+LONGEST Block is:1   Its length is:10560
+
+
+THIS IS THE ORIGINAL NUMBER OF TRACKS: 29
+
+
+no. of accepted flips: 12
+no. of attempted flips: 2700
+THIS IS THE NUMBER OF TRACKS: 27
+
+
+THIS G. ROUTING IS BEING SAVED AS BEST SO FAR
+
+FINAL NUMBER OF ROUTING TRACKS: 27
+
+MAX OF CHANNEL:  1  is:   3
+MAX OF CHANNEL:  2  is:  11
+MAX OF CHANNEL:  3  is:   3
+MAX OF CHANNEL:  4  is:   9
+MAX OF CHANNEL:  5  is:   1
+Actual # of Feed Cells Added:	0
+
+
+TimberWolfSC did call even_the_rows()
+TimberWolfSC using absolute_minimum_feeds
+Total Wire Length - X-Component:133697
+Total Wire Length - Y-Component:89702
+Time Penalty:0
+ the number of net = 108
+ the number of tilted segment = 48
+ the number of switchable L segment = 34
+Total Wire Length - X-Component:133927
+Total Wire Length - Y-Component:99532
+Time Penalty:0
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET      DESIRE
+    1                 10560                 -558       11118
+    2                 10480                 -638       11118
+    3                 10400                 -718       11118
+    4                 10560                 -558       11118
+
+LONGEST Block is:1   Its length is:10560
+ the number of tilted segment = 51
+ the number of switchable L segment = 49
+After Feeds are Added:
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560                  -558
+  2              10480                  -638
+  3              10400                  -718
+  4              10560                  -558
+
+LONGEST Row is:1   Its length is:10560
+Eliminated 0 unused feeds in the longest row
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560 
+  2              10480 
+  3              10400 
+  4              10560 
+
+long intEST Row is:1   Its length is:10560
+
+row lengths after steiner trees:
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET
+    1                 10560                 -558
+    2                 10480                 -638
+    3                 10400                 -718
+    4                 10560                 -558
+
+LONGEST Block is:1   Its length is:10560
+
+
+THIS IS THE ORIGINAL NUMBER OF TRACKS: 32
+
+
+no. of accepted flips: 1
+no. of attempted flips: 2700
+THIS IS THE NUMBER OF TRACKS: 32
+
+
+Actual # of Feed Cells Added:	0
+
+
+TimberWolfSC did call even_the_rows()
+Total Wire Length - X-Component:133697
+Total Wire Length - Y-Component:89702
+Time Penalty:0
+ the number of net = 108
+ the number of tilted segment = 56
+ the number of switchable L segment = 41
+Total Wire Length - X-Component:133927
+Total Wire Length - Y-Component:99532
+Time Penalty:0
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET      DESIRE
+    1                 10560                 -558       11118
+    2                 10480                 -638       11118
+    3                 10400                 -718       11118
+    4                 10560                 -558       11118
+
+LONGEST Block is:1   Its length is:10560
+ the number of tilted segment = 59
+ the number of switchable L segment = 62
+After Feeds are Added:
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560                  -558
+  2              10480                  -638
+  3              10400                  -718
+  4              10560                  -558
+
+LONGEST Row is:1   Its length is:10560
+Eliminated 0 unused feeds in the longest row
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560 
+  2              10480 
+  3              10400 
+  4              10560 
+
+long intEST Row is:1   Its length is:10560
+
+row lengths after steiner trees:
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET
+    1                 10560                 -558
+    2                 10480                 -638
+    3                 10400                 -718
+    4                 10560                 -558
+
+LONGEST Block is:1   Its length is:10560
+
+
+THIS IS THE ORIGINAL NUMBER OF TRACKS: 29
+
+
+no. of accepted flips: 161
+no. of attempted flips: 2700
+THIS IS THE NUMBER OF TRACKS: 28
+
+
+Actual # of Feed Cells Added:	0
+
+
+TimberWolfSC did call even_the_rows()
+Total Wire Length - X-Component:133697
+Total Wire Length - Y-Component:89702
+Time Penalty:0
+ the number of net = 108
+ the number of tilted segment = 56
+ the number of switchable L segment = 41
+Total Wire Length - X-Component:133927
+Total Wire Length - Y-Component:99532
+Time Penalty:0
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET      DESIRE
+    1                 10560                 -558       11118
+    2                 10480                 -638       11118
+    3                 10400                 -718       11118
+    4                 10560                 -558       11118
+
+LONGEST Block is:1   Its length is:10560
+ the number of tilted segment = 59
+ the number of switchable L segment = 63
+After Feeds are Added:
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560                  -558
+  2              10480                  -638
+  3              10400                  -718
+  4              10560                  -558
+
+LONGEST Row is:1   Its length is:10560
+Eliminated 0 unused feeds in the longest row
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560 
+  2              10480 
+  3              10400 
+  4              10560 
+
+long intEST Row is:1   Its length is:10560
+
+row lengths after steiner trees:
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET
+    1                 10560                 -558
+    2                 10480                 -638
+    3                 10400                 -718
+    4                 10560                 -558
+
+LONGEST Block is:1   Its length is:10560
+
+
+THIS IS THE ORIGINAL NUMBER OF TRACKS: 29
+
+
+no. of accepted flips: 365
+no. of attempted flips: 2700
+THIS IS THE NUMBER OF TRACKS: 27
+
+
+Actual # of Feed Cells Added:	0
+
+
+TimberWolfSC did call even_the_rows()
+Total Wire Length - X-Component:133697
+Total Wire Length - Y-Component:89702
+Time Penalty:0
+ the number of net = 108
+ the number of tilted segment = 56
+ the number of switchable L segment = 41
+Total Wire Length - X-Component:133927
+Total Wire Length - Y-Component:99532
+Time Penalty:0
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET      DESIRE
+    1                 10560                 -558       11118
+    2                 10480                 -638       11118
+    3                 10400                 -718       11118
+    4                 10560                 -558       11118
+
+LONGEST Block is:1   Its length is:10560
+ the number of tilted segment = 59
+ the number of switchable L segment = 63
+After Feeds are Added:
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560                  -558
+  2              10480                  -638
+  3              10400                  -718
+  4              10560                  -558
+
+LONGEST Row is:1   Its length is:10560
+Eliminated 0 unused feeds in the longest row
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560 
+  2              10480 
+  3              10400 
+  4              10560 
+
+long intEST Row is:1   Its length is:10560
+
+row lengths after steiner trees:
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET
+    1                 10560                 -558
+    2                 10480                 -638
+    3                 10400                 -718
+    4                 10560                 -558
+
+LONGEST Block is:1   Its length is:10560
+
+
+THIS IS THE ORIGINAL NUMBER OF TRACKS: 31
+
+
+no. of accepted flips: 14
+no. of attempted flips: 2700
+THIS IS THE NUMBER OF TRACKS: 28
+
+
+Actual # of Feed Cells Added:	0
+
+
+TimberWolfSC did call even_the_rows()
+TimberWolfSC using absolute_minimum_feeds
+Total Wire Length - X-Component:133697
+Total Wire Length - Y-Component:89702
+Time Penalty:0
+ the number of net = 108
+ the number of tilted segment = 48
+ the number of switchable L segment = 34
+Total Wire Length - X-Component:133927
+Total Wire Length - Y-Component:99532
+Time Penalty:0
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET      DESIRE
+    1                 10560                 -558       11118
+    2                 10480                 -638       11118
+    3                 10400                 -718       11118
+    4                 10560                 -558       11118
+
+LONGEST Block is:1   Its length is:10560
+ the number of tilted segment = 51
+ the number of switchable L segment = 49
+After Feeds are Added:
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560                  -558
+  2              10480                  -638
+  3              10400                  -718
+  4              10560                  -558
+
+LONGEST Row is:1   Its length is:10560
+Eliminated 0 unused feeds in the longest row
+BLOCK      TOTAL CELL LENGTHS      OVER/UNDER TARGET
+  1              10560 
+  2              10480 
+  3              10400 
+  4              10560 
+
+long intEST Row is:1   Its length is:10560
+
+row lengths after steiner trees:
+BLOCK    TOTAL CELL LENGTHS    OVER/UNDER TARGET
+    1                 10560                 -558
+    2                 10480                 -638
+    3                 10400                 -718
+    4                 10560                 -558
+
+LONGEST Block is:1   Its length is:10560
+
+
+THIS IS THE ORIGINAL NUMBER OF TRACKS: 31
+
+
+no. of accepted flips: 1
+no. of attempted flips: 2700
+THIS IS THE NUMBER OF TRACKS: 31
+
+
+Actual # of Feed Cells Added:	0
+
+
+
+
+***********************************************
+*ACTUAL* FINAL NUMBER OF ROUTING TRACKS: 27
+***********************************************
+
+
+Statistics:
+Number of Cells: 105
+Number of Pads: 0 
+Number of Nets: 108 
+Number of Pins: 578 
+Number of PadGroups: 0 
+Number of Implicit Feed Thrus: 243
+Number of Feed Thrus Added: 0
+Feed Percentage: 0.00%
+Average Row Separation: 1.35
+
+
+Runtime Statistics
+-------------------------
+Machine name: dizzy-7.o2s.ch
+Date        : Wed Nov 22 21:34:55 2017
+
+User    time:   2.1 seconds
+System  time:   0.0 seconds
+Elapsed time:   2.1 seconds
+
+Average resident text size       =     0K
+Average resident data+stack size =     0K
+Maximum resident size = 43704K
+Virtual memory size = 34852K
+Virtual memory limit = -2147483648K (-2147483648K)
+
+Major page faults = 0
+Minor page faults = 693
+Swaps = 0
+
+Input blocks = 0
+Output blocks = 432
+
+Context switch (voluntary) = 0
+Context switch (involuntary) = 178

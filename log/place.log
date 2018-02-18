@@ -1,0 +1,61 @@
+Qflow placement logfile created on Tue Nov 7 18:21:32 HKT 2017
+Running blif2cel.tcl
+Opened LEF file (/home/leviathan/qtflow/tech/osu018/osu018_stdcells.lef) for reading...
+Opened BLIF file (/home/leviathan/qtflow_test2/synthesis/counter.blif) for reading ...
+Opened CEL file (/home/leviathan/qtflow_test2/layout/counter.cel) for writing...
+1st pass of blif file /home/leviathan/qtflow_test2/synthesis/counter.blif. . .
+Reading macros from LEF file. . .
+Parsing macro AND2X2
+Parsing macro AOI21X1
+Parsing macro BUFX2
+Parsing macro DFFPOSX1
+Parsing macro INVX1
+Parsing macro NAND2X1
+Parsing macro NOR2X1
+Parsing macro OAI21X1
+Parsing macro XOR2X1
+Parsing macro XNOR2X1
+2nd pass of blif file. . .
+3rd pass of blif file. . .
+Done!
+No counter.cel2 file found for project. . . continuing without pin placement hints
+Running GrayWolf placement
+
+twflow version:2.0 date:Dec  8 2015
+Authors: Bill Swartz, Carl Sechen
+         Yale University
+Running getfillcell.tcl
+Using cell FILL for fill
+Running place2def.tcl
+Limits: xbot = -855.0 ybot = 1000 xtop = 74935.0 ytop = 35565.0
+Core values: 40.0 50.0 74440.0 33850.0
+Offsets: 40.0 50.0
+6 routing layers
+346 horizontal tracks from 0.0 to 34600.0 step 100 (M1, M3, ...)
+948 vertical tracks from -720.0 to 75120.0 step 80.0 (M2, M4, ...)
+Done with place2def.tcl
+Running addspacers.tcl  counter /home/leviathan/qtflow/tech/osu018/osu018_stdcells.lef FILL
+Running addspacers.tcl
+Reading FILL macros from LEF file.
+Reading DEF file counter.def. . .
+Number of rows is 2
+Longest row has width 658.0 um
+Analysis of DEF file:
+Number of components = 31
+New number of components = 41
+Number of rows = 2
+Done with addspacers.tcl
+Running blifanno.tcl
+Reading DEF file counter.def. . .
+Done with blifanno.tcl
+
+Generating RTL verilog and SPICE netlist file in directory
+   /home/leviathan/qtflow_test2/synthesis
+Files:
+   Verilog: /home/leviathan/qtflow_test2/synthesis/counter.rtl.v
+   Verilog: /home/leviathan/qtflow_test2/synthesis/counter.rtlnopwr.v
+   Spice:   /home/leviathan/qtflow_test2/synthesis/counter.spc
+
+Running blif2Verilog.
+Running blif2BSpice.
+Placement script ended on Tue Nov 7 18:21:32 HKT 2017

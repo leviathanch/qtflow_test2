@@ -1,0 +1,25 @@
+cluster 1 name core
+corners 4 0 0   0 9181  9181 9181   9181 0
+asplb 0.5 aspub 2.0
+class 0 orientations 0 1 2 3 4 5 6 7
+
+instance core_L
+corners 6 0 0 0 10600 5300 10600 5300 5300 10600 5300 10600 0
+asplb 0.5 aspub 2.0
+class 0 orientations 0 1 2 3 4 5 6 7
+
+instance core_T
+corners 8 4590 0 4590 4590 0 4590 0 9180 13770 9180 13770 4590 9180 4590 9180 0
+asplb 0.5 aspub 2.0
+class 0 orientations 0 1 2 3 4 5 6 7
+
+instance core_U
+corners 8 0 0 0 8210 4105 8210 4105 4105 8210 4105 8210 8210 12315 8210 12315 0
+asplb 0.5 aspub 2.0
+class 0 orientations 0 1 2 3 4 5 6 7
+
+instance core_L2
+corners 6 0 0 0 8210 8210 8210 8210 4105 12315 4105 12315 0
+asplb 0.5 aspub 2.0
+class 0 orientations 0 1 2 3 4 5 6 7
+

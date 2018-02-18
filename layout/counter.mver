@@ -1,0 +1,7 @@
+total_row_length 42000
+actual_row_height 1000
+channel_separation 0
+min_length 2224
+core -240 -200 10880 8200
+grid 240 200
+num_macro 0

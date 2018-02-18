@@ -1,0 +1,10 @@
+cell core 
+6 vertices 0 0 0 8210 8210 8210 8210 4105 12315 4105 12315 0 
+cell pad.macro.l 
+4 vertices  -720 200 -720 7800 -480 7800 -480 200
+cell pad.macro.t 
+4 vertices  240 8400 240 8600 10400 8600 10400 8400
+cell pad.macro.r 
+4 vertices  11120 200 11120 7800 11360 7800 11360 200
+cell pad.macro.b 
+4 vertices  240 -600 240 -400 10400 -400 10400 -600

@@ -1,0 +1,11 @@
+total_row_length 42000
+actual_row_height 1000
+channel_separation 1001
+min_length 2224
+core -240 -200 10880 8200
+grid 0 0
+num_macro 0
+feed_length 0
+spacing 1
+numtiles 1
+0 -240 -200 10880 12400 0 1 0 4 1000 0 1001 2224 1 11118 0

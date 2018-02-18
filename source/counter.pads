@@ -1,0 +1,210 @@
+var side_length 10
+pad B1 cell PADINC
+pad B10 cell PADINC
+pad B2 cell PADINC
+pad B3 cell PADINC
+pad B4 cell PADINC
+pad B5 cell PADGND
+pad B6 cell PADVDD
+pad B7 cell PADINC
+pad B8 cell PADINC
+pad B9 cell PADINC
+pad CORNER1 cell PADFC
+pad CORNER2 cell PADFC
+pad CORNER3 cell PADFC
+pad CORNER4 cell PADFC
+pad COTNET1 cell PADFC
+pad COTNET2 cell PADFC
+pad COTNET3 cell PADFC
+pad COTNET4 cell PADFC
+pad L1 cell PADNC
+pad L10 cell PADNC
+pad L2 cell PADINC
+pad L3 cell PADNC
+pad L4 cell PADINC
+pad L5 cell PADNC
+pad L6 cell PADGND
+pad L7 cell PADVDD
+pad L8 cell PADNC
+pad L9 cell PADNC
+pad R1 cell PADNC
+pad R10 cell PADNC
+pad R2 cell PADNC
+pad R3 cell PADNC
+pad R4 cell PADNC
+pad R5 cell PADGND
+pad R6 cell PADVDD
+pad R7 cell PADINC
+pad R8 cell PADNC
+pad R9 cell PADNC
+pad T1 cell PADOUT
+pad T10 cell PADOUT
+pad T2 cell PADOUT
+pad T3 cell PADOUT
+pad T4 cell PADOUT
+pad T5 cell PADVDD
+pad T6 cell PADGND
+pad T7 cell PADOUT
+pad T8 cell PADOUT
+pad T9 cell PADOUT
+pad B1 name D1
+pad B10 name D8
+pad B2 name D2
+pad B3 name D3
+pad B4 name D4
+pad B5 name GND
+pad B6 name VDD
+pad B7 name D5
+pad B8 name D6
+pad B9 name D7
+pad CORNER1 name n/c
+pad CORNER2 name n/c
+pad CORNER3 name n/c
+pad CORNER4 name n/c
+pad COTNET1 name n/c
+pad COTNET2 name n/c
+pad COTNET3 name n/c
+pad COTNET4 name n/c
+pad L1 name n/c
+pad L10 name n/c
+pad L2 name CLK
+pad L3 name n/c
+pad L4 name CLR
+pad L5 name n/c
+pad L6 name GND
+pad L7 name VDD
+pad L8 name n/c
+pad L9 name n/c
+pad R1 name n/c
+pad R10 name n/c
+pad R2 name n/c
+pad R3 name n/c
+pad R4 name n/c
+pad R5 name GND
+pad R6 name VDD
+pad R7 name ENABLE
+pad R8 name n/c
+pad R9 name n/c
+pad T1 name Q1
+pad T10 name Q8
+pad T2 name Q2
+pad T3 name Q3
+pad T4 name Q4
+pad T5 name VDD
+pad T6 name GND
+pad T7 name Q5
+pad T8 name Q6
+pad T9 name Q7
+pad B1 pin DI signal d<0>
+pad B1 pin YPAD signal None
+pad B10 pin DI signal d<7>
+pad B10 pin YPAD signal None
+pad B2 pin DI signal d<1>
+pad B2 pin YPAD signal None
+pad B3 pin DI signal d<2>
+pad B3 pin YPAD signal None
+pad B4 pin DI signal d<3>
+pad B4 pin YPAD signal None
+pad B5 pin YPAD signal None
+pad B5 pin gnd signal gnd
+pad B6 pin YPAD signal None
+pad B6 pin vdd signal vdd
+pad B7 pin DI signal d<4>
+pad B7 pin YPAD signal None
+pad B8 pin DI signal d<5>
+pad B8 pin YPAD signal None
+pad B9 pin DI signal d<6>
+pad B9 pin YPAD signal None
+pad L1 pin DI signal None
+pad L1 pin YPAD signal None
+pad L1 pin gnd signal gnd
+pad L10 pin YPAD signal None
+pad L10 pin gnd signal gnd
+pad L2 pin DI signal clk
+pad L2 pin YPAD signal None
+pad L2 pin gnd signal gnd
+pad L2 pin vdd signal None
+pad L3 pin DI signal clk
+pad L3 pin YPAD signal None
+pad L3 pin gnd signal gnd
+pad L4 pin DI signal clr
+pad L4 pin YPAD signal None
+pad L4 pin gnd signal None
+pad L5 pin YPAD signal None
+pad L5 pin gnd signal gnd
+pad L6 pin YPAD signal None
+pad L6 pin gnd signal gnd
+pad L6 pin vdd signal vdd
+pad L7 pin DI signal clr
+pad L7 pin YPAD signal None
+pad L7 pin gnd signal None
+pad L7 pin vdd signal vdd
+pad L8 pin YPAD signal None
+pad L8 pin gnd signal gnd
+pad L9 pin YPAD signal None
+pad L9 pin gnd signal gnd
+pad R1 pin YPAD signal None
+pad R1 pin gnd signal None
+pad R1 pin vdd signal vdd
+pad R10 pin YPAD signal None
+pad R10 pin gnd signal None
+pad R10 pin vdd signal vdd
+pad R2 pin DI signal None
+pad R2 pin DO signal None
+pad R2 pin OEN signal None
+pad R2 pin YPAD signal None
+pad R2 pin gnd signal None
+pad R2 pin vdd signal vdd
+pad R3 pin DI signal clr
+pad R3 pin YPAD signal None
+pad R3 pin gnd signal None
+pad R3 pin vdd signal vdd
+pad R4 pin YPAD signal None
+pad R4 pin gnd signal None
+pad R4 pin vdd signal vdd
+pad R5 pin YPAD signal None
+pad R5 pin gnd signal gnd
+pad R5 pin vdd signal vdd
+pad R6 pin YPAD signal None
+pad R6 pin gnd signal gnd
+pad R6 pin vdd signal vdd
+pad R7 pin DI signal e
+pad R7 pin YPAD signal None
+pad R7 pin gnd signal None
+pad R7 pin vdd signal vdd
+pad R8 pin DI signal clr
+pad R8 pin YPAD signal None
+pad R8 pin gnd signal None
+pad R8 pin vdd signal vdd
+pad R9 pin YPAD signal None
+pad R9 pin gnd signal None
+pad R9 pin vdd signal vdd
+pad T1 pin DO signal q<0>
+pad T1 pin YPAD signal None
+pad T1 pin gnd signal None
+pad T10 pin DO signal q<7>
+pad T10 pin YPAD signal None
+pad T10 pin gnd signal None
+pad T2 pin DO signal q<1>
+pad T2 pin YPAD signal None
+pad T2 pin gnd signal None
+pad T3 pin DO signal q<2>
+pad T3 pin YPAD signal None
+pad T3 pin gnd signal None
+pad T4 pin DO signal q<3>
+pad T4 pin YPAD signal None
+pad T4 pin gnd signal None
+pad T5 pin YPAD signal None
+pad T5 pin gnd signal None
+pad T5 pin vdd signal vdd
+pad T6 pin YPAD signal None
+pad T6 pin gnd signal gnd
+pad T7 pin DO signal q<4>
+pad T7 pin YPAD signal None
+pad T7 pin gnd signal None
+pad T8 pin DO signal q<5>
+pad T8 pin YPAD signal None
+pad T8 pin gnd signal None
+pad T9 pin DO signal q<6>
+pad T9 pin YPAD signal None
+pad T9 pin gnd signal None

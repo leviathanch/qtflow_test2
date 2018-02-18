@@ -1,0 +1,14 @@
+rows 4
+row -160 300    10958 1300 mirror
+row -160 2300    10958 3300
+row -160 4300    10958 5300 mirror
+row -160 6300    10958 7300
+
+/* 
+   The Tile and Macro Information:
+   numtiles 1
+   -240 -200   10880 12400
+
+   nummacros 0
+
+*/

@@ -1,0 +1,1035 @@
+Qflow route logfile created on Tue Nov 7 18:21:32 HKT 2017
+Qrouter detail maze router version 1.3.79.T
+No .cfg file specified, continuing without.
+Reading LEF data from file /home/leviathan/qtflow/tech/osu018/osu018_stdcells.lef.
+LEF Read, Line 144: Don't know how to parse layer "via"
+LEF Read, Line 145: No layer defined for RECT.
+LEF Read, Line 153: Don't know how to parse layer "via2"
+LEF Read, Line 154: No layer defined for RECT.
+LEF Read, Line 162: Don't know how to parse layer "via3"
+LEF Read, Line 163: No layer defined for RECT.
+LEF Read, Line 171: Don't know how to parse layer "via4"
+LEF Read, Line 172: No layer defined for RECT.
+LEF Read, Line 180: Don't know how to parse layer "via5"
+LEF Read, Line 181: No layer defined for RECT.
+LEF Read, Line 187: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF Read, Line 191: Unknown keyword "OVERHANG" in LEF file; ignoring.
+LEF Read, Line 192: Unknown keyword "METALOVERHANG" in LEF file; ignoring.
+LEF Read, Line 196: Unknown keyword "OVERHANG" in LEF file; ignoring.
+LEF Read, Line 197: Unknown keyword "METALOVERHANG" in LEF file; ignoring.
+LEF Read, Line 198: Don't know how to parse layer "via"
+LEF Read, Line 199: No layer defined for RECT.
+LEF Read, Line 203: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF Read, Line 207: Unknown keyword "OVERHANG" in LEF file; ignoring.
+LEF Read, Line 208: Unknown keyword "METALOVERHANG" in LEF file; ignoring.
+LEF Read, Line 212: Unknown keyword "OVERHANG" in LEF file; ignoring.
+LEF Read, Line 213: Unknown keyword "METALOVERHANG" in LEF file; ignoring.
+LEF Read, Line 214: Don't know how to parse layer "via2"
+LEF Read, Line 215: No layer defined for RECT.
+LEF Read, Line 219: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF Read, Line 223: Unknown keyword "OVERHANG" in LEF file; ignoring.
+LEF Read, Line 224: Unknown keyword "METALOVERHANG" in LEF file; ignoring.
+LEF Read, Line 228: Unknown keyword "OVERHANG" in LEF file; ignoring.
+LEF Read, Line 229: Unknown keyword "METALOVERHANG" in LEF file; ignoring.
+LEF Read, Line 230: Don't know how to parse layer "via3"
+LEF Read, Line 231: No layer defined for RECT.
+LEF Read, Line 235: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF Read, Line 239: Unknown keyword "OVERHANG" in LEF file; ignoring.
+LEF Read, Line 240: Unknown keyword "METALOVERHANG" in LEF file; ignoring.
+LEF Read, Line 244: Unknown keyword "OVERHANG" in LEF file; ignoring.
+LEF Read, Line 245: Unknown keyword "METALOVERHANG" in LEF file; ignoring.
+LEF Read, Line 246: Don't know how to parse layer "via4"
+LEF Read, Line 247: No layer defined for RECT.
+LEF Read, Line 251: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF Read, Line 255: Unknown keyword "OVERHANG" in LEF file; ignoring.
+LEF Read, Line 256: Unknown keyword "METALOVERHANG" in LEF file; ignoring.
+LEF Read, Line 260: Unknown keyword "OVERHANG" in LEF file; ignoring.
+LEF Read, Line 261: Unknown keyword "METALOVERHANG" in LEF file; ignoring.
+LEF Read, Line 262: Don't know how to parse layer "via5"
+LEF Read, Line 263: No layer defined for RECT.
+LEF Read, Line 267: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF Read, Line 274: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF Read, Line 281: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF Read, Line 288: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF Read, Line 295: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF Read, Line 302: Unknown keyword "GENERATE" in LEF file; ignoring.
+LEF file:  Defines site core (ignored)
+LEF Read, Line 325: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 334: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 367: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 387: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 435: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 455: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 510: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 533: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 589: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 612: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 646: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 665: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 701: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 722: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 765: Don't know how to parse layer "via"
+LEF Read, Line 791: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 804: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 857: Don't know how to parse layer "via"
+LEF Read, Line 900: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 926: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1000: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1013: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1062: Don't know how to parse layer "via"
+LEF Read, Line 1146: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1160: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1207: Don't know how to parse layer "via"
+LEF Read, Line 1232: Don't know how to parse layer "via"
+LEF Read, Line 1280: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1292: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1327: Don't know how to parse layer "via"
+LEF Read, Line 1350: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1367: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1393: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1410: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1436: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1454: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1481: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1504: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1539: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1558: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1599: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1623: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1657: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1679: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1722: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1743: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1798: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1820: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read, Line 1863: Unknown keyword "SHAPE" in LEF file; ignoring.
+LEF Read:  Further errors will not be reported.
+LEF read: Processed 2941 lines.
+LEF Read: encountered 128 errors total.
+Multiple vertical route layers at different pitches.  Using smaller pitch 0.8, will route on 1-of-N tracks if necessary.
+Reading DEF data from file counter.def.
+Diagnostic: Design name: "counter"
+Multiple vertical route layers at different pitches.  Using pitch 0.8 and routing on 1-of-N tracks for larger pitches.
+Multiple vertical route layers at different pitches.  Using pitch 0.8 and routing on 1-of-N tracks for larger pitches.
+  Processed 41 subcell instances total.
+  Processed 22 pins total.
+  Processed 35 nets total.
+DEF read: Processed 290 lines.
+Output scale = microns / 100, precision 1
+There are 35 nets in this design.
+*** Running stage1 routing with defaults
+route_postponed_nets: Box of _16_ overlaps. Trying to find alternative shape
+fiting net _16_ with net _0_[3]: fitting failed
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+route_postponed_nets: Box of _12_ overlaps. Trying to find alternative shape
+fiting net _12_ with net _0_[2]: fitting failed
+route_postponed_nets: Box of _8_ overlaps. Trying to find alternative shape
+fiting net _8_ with net _9_: fitting failed
+route_postponed_nets: Box of _7_ overlaps. Trying to find alternative shape
+fiting net _7_ with net _0_[1]: fitting failed
+route_postponed_nets: Box of _5_ overlaps. Trying to find alternative shape
+fiting net _5_ with net _0_[0]: fitting failed
+route_postponed_nets: Box of _15_ overlaps. Trying to find alternative shape
+fiting net _15_ with net _16_: fitting failed
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+route_postponed_nets: Box of q[3] overlaps. Trying to find alternative shape
+fiting net q[3] with net _15_: fitting failed
+route_postponed_nets: Box of _14_ overlaps. Trying to find alternative shape
+fiting net _14_ with net _15_: fitting failed
+fiting net _14_ with net _12_: fitting failed
+route_postponed_nets: Box of _6_ overlaps. Trying to find alternative shape
+fiting net _6_ with net _7_: fitting failed
+route_postponed_nets: Box of _2_ overlaps. Trying to find alternative shape
+fiting net _2_ with net _5_: fitting failed
+fiting net _2_ with net _8_: fitting failed
+route_postponed_nets: Box of _11_ overlaps. Trying to find alternative shape
+fiting net _11_ with net _12_: fitting failed
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+route_postponed_nets: Box of _11_ overlaps. Trying to find alternative shape
+fiting net _11_ with net _14_: fitting failed
+route_postponed_nets: Box of _10_ overlaps. Trying to find alternative shape
+fiting net _10_ with net _2_: fitting failed
+fiting net _10_ with net _14_: fitting failed
+route_postponed_nets: Box of clr overlaps. Trying to find alternative shape
+fiting net clr with net q[2]: fitting failed
+route_postponed_nets: Box of _3_ overlaps. Trying to find alternative shape
+fiting net _3_ with net _2_: fitting failed
+fiting net _3_ with net _6_: fitting failed
+route_postponed_nets: Box of r[0] overlaps. Trying to find alternative shape
+fiting net r[0] with net _2_: fitting failed
+route_postponed_nets: Box of q[0] overlaps. Trying to find alternative shape
+fiting net q[0] with net _2_: fitting failed
+route_postponed_nets: Box of r[1] overlaps. Trying to find alternative shape
+fiting net r[1] with net _6_: fitting failed
+route_postponed_nets: Box of _16_ still overlaps. Post-Pony-ing
+route_postponed_nets: routing net _1_[1]
+route_postponed_nets: routing net _1_[3]
+route_postponed_nets: routing net _1_[0]
+route_postponed_nets: routing net _1_[2]
+route_postponed_nets: routing net _0_[3]
+route_postponed_nets: routing net _13_
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _1_[1]
+dofirststage_thread: Nets remaining: 34
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _0_[3]
+dofirststage_thread: Nets remaining: 33
+dofirststage_thread: Finished routing net _1_[3]
+dofirststage_thread: Nets remaining: 32
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _1_[0]
+dofirststage_thread: Nets remaining: 31
+dofirststage_thread: Finished routing net _1_[2]
+dofirststage_thread: Nets remaining: 30
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _13_
+dofirststage_thread: Nets remaining: 29
+route_postponed_nets: Box of _12_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _8_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _7_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _5_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _15_ still overlaps. Post-Pony-ing
+route_postponed_nets: routing net _16_
+route_postponed_nets: routing net _0_[2]
+route_postponed_nets: routing net _9_
+route_postponed_nets: routing net _0_[1]
+route_postponed_nets: routing net _0_[0]
+route_postponed_nets: routing net r[3]
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _0_[1]
+dofirststage_thread: Nets remaining: 28
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _16_
+dofirststage_thread: Nets remaining: 27
+dofirststage_thread: Finished routing net _9_
+dofirststage_thread: Nets remaining: 26
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _0_[0]
+dofirststage_thread: Nets remaining: 25
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net r[3]
+dofirststage_thread: Nets remaining: 24
+dofirststage_thread: Finished routing net _0_[2]
+dofirststage_thread: Nets remaining: 23
+route_postponed_nets: Box of q[3] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _14_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _6_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _2_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _11_ still overlaps. Post-Pony-ing
+route_postponed_nets: routing net _12_
+route_postponed_nets: routing net _8_
+route_postponed_nets: routing net _7_
+route_postponed_nets: routing net _5_
+route_postponed_nets: routing net _15_
+route_postponed_nets: routing net r[2]
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _12_
+dofirststage_thread: Nets remaining: 22
+dofirststage_thread: Finished routing net _7_
+dofirststage_thread: Nets remaining: 21
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _8_
+dofirststage_thread: Nets remaining: 20
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _5_
+dofirststage_thread: Nets remaining: 19
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _15_
+dofirststage_thread: Nets remaining: 18
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net r[2]
+dofirststage_thread: Nets remaining: 17
+route_postponed_nets: Box of _11_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _10_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of clr still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _3_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of r[0] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of q[0] still overlaps. Post-Pony-ing
+route_postponed_netroute_postponed_nets: Box of q[1] overlaps. Trying to find alternative shape
+fiting net q[1] with net _6_: fitting failed
+route_postponed_nets: Box of _4_ overlaps. Trying to find alternative shape
+fiting net _4_ with net q[2]: fitting failed
+fiting net _4_ with net _2_: fitting failed
+fiting net _4_ with net _6_: fitting failed
+fiting net _4_ with net _14_: fitting failed
+fiting net _4_ with net q[3]: fitting failed
+route_postponed_nets: Box of clk overlaps. Trying to find alternative shape
+fiting net clk with net q[2]: fitting failed
+fiting net clk with net _2_: fitting failed
+fiting net clk with net _6_: fitting failed
+fiting net clk with net _14_: fitting failed
+fiting net clk with net q[3]: fitting failed
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+route_postponed_nets: Box of _10_ overlaps. Trying to find alternative shape
+fiting net _10_ with net _11_: fitting failed
+route_postponed_nets: Box of clr overlaps. Trying to find alternative shape
+fiting net clr with net _11_: fitting failed
+route_postponed_nets: Box of q[0] overlaps. Trying to find alternative shape
+fiting net q[0] with net r[0]: fitting failed
+route_postponed_nets: Box of r[1] overlaps. Trying to find alternative shape
+fiting net r[1] with net _3_: fitting failed
+route_postponed_nets: Box of q[1] overlaps. Trying to find alternative shape
+fiting net q[1] with net _3_: fitting failed
+route_postponed_nets: Box of _4_ overlaps. Trying to find alternative shape
+fiting net _4_ with net r[0]: fitting failed
+fiting net _4_ with net _3_: fitting failed
+fiting net _4_ with net _11_: fitting failed
+route_postponed_nets: Box of clk overlaps. Trying to find alternative shape
+fiting net clk with net r[0]: fitting failed
+fiting net clk with net _3_: fitting failed
+fiting net clk with net _11_: fitting failed
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route start node/route!
+route_postponed_nets: Box of q[0] overlaps. Trying to find alternative shape
+fiting net q[0] with net clr: fitting failed
+route_postponed_nets: Box of r[1] overlaps. Trying to find alternative shape
+fiting net r[1] with net _10_: fitting failed
+route_postponed_nets: Box of q[1] overlaps. Trying to find alternative shape
+fiting net q[1] with net _10_: fitting failed
+route_postponed_nets: Box of _4_ overlaps. Trying to find alternative shape
+fiting net _4_ with net clr: fitting failed
+fiting net _4_ with net _10_: fitting failed
+route_postponed_nets: Box of clk overlaps. Trying to find alternative shape
+fiting net clk with net clr: fitting failed
+fiting net clk with net _10_: fitting failed
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+route_postponed_nets: Box of q[1] overlaps. Trying to find alternative shape
+fiting net q[1] with net r[1]: fitting failed
+route_postponed_nets: Box of _4_ overlaps. Trying to find alternative shape
+fiting net _4_ with net r[1]: fitting failed
+fiting net _4_ with net q[0]: fitting failed
+route_postponed_nets: Box of clk overlaps. Trying to find alternative shape
+fiting net clk with net r[1]: fitting failed
+fiting net clk with net q[0]: fitting failed
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+route_postponed_nets: Box of _4_ overlaps. Trying to find alternative shape
+fiting net _4_ with net q[1]: fitting failed
+route_postponed_nets: Box of clk overlaps. Trying to find alternative shape
+fiting net clk with net q[1]: fitting failed
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+s: Box of r[1] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of q[1] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _4_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of clk still overlaps. Post-Pony-ing
+route_postponed_nets: routing net q[3]
+route_postponed_nets: routing net _14_
+route_postponed_nets: routing net _6_
+route_postponed_nets: routing net _2_
+route_postponed_nets: routing net q[2]
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _6_
+dofirststage_thread: Nets remaining: 16
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net q[3]
+dofirststage_thread: Nets remaining: 15
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _14_
+dofirststage_thread: Nets remaining: 14
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net q[2]
+dofirststage_thread: Nets remaining: 13
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _2_
+dofirststage_thread: Nets remaining: 12
+route_postponed_nets: Box of _10_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of clr still overlaps. Post-Pony-ing
+route_postponed_nets: Box of q[0] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of r[1] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of q[1] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _4_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of clk still overlaps. Post-Pony-ing
+route_postponed_nets: routing net _11_
+route_postponed_nets: routing net _3_
+route_postponed_nets: routing net r[0]
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net r[0]
+dofirststage_thread: Nets remaining: 11
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _11_
+dofirststage_thread: Nets remaining: 10
+dofirststage_thread: Finished routing net _3_
+dofirststage_thread: Nets remaining: 9
+route_postponed_nets: Box of q[0] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of r[1] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of q[1] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _4_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of clk still overlaps. Post-Pony-ing
+route_postponed_nets: routing net _10_
+route_postponed_nets: routing net clr
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _10_
+dofirststage_thread: Nets remaining: 8
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net clr
+dofirststage_thread: Nets remaining: 7
+route_postponed_nets: Box of q[1] still overlaps. Post-Pony-ing
+route_postponed_nets: Box of _4_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of clk still overlaps. Post-Pony-ing
+route_postponed_nets: routing net q[0]
+route_postponed_nets: routing net r[1]
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net q[0]
+dofirststage_thread: Nets remaining: 6
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net r[1]
+dofirststage_thread: Nets remaining: 5
+route_postponed_nets: Box of _4_ still overlaps. Post-Pony-ing
+route_postponed_nets: Box of clk still overlaps. Post-Pony-ing
+route_postponed_nets: routing net q[1]
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net q[1]
+dofirststage_route_postponed_nets: Box of clk overlaps. Trying to find alternative shape
+fiting net clk with net _4_: fitting failed
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+
+----------------------------------------------
+Progress: Stage 1 total routes completed: 73
+No failed routes!
+----------------------------------------------
+*** Running stage3 routing with defaults, 1st round
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Finished routing net clk
+dothirdstage: Nets remaining: 34
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net _4_
+dothirdstage: Nets remaining: 33
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Finished routing net q[1]
+dothirdstage: Nets remaining: 32
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net r[1]
+dothirdstage: Nets remaining: 31
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Finished routing net q[0]
+dothirdstage: Nets remaining: 30
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Finished routing net r[0]
+dothirdstage: Nets remaining: 29
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net _3_
+dothirdstage: Nets remaining: 28
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Finished routing net clr
+dothirdstage: Nets remaining: 27
+Error:  Failure to find route start node/route!
+Finished routing net _10_
+dothirdstage: Nets remaining: 26
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net q[2]
+dothirdstage: Nets remaining: 25
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+dothirdstage: Failed to route net r[2]
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net _11_
+dothirdstage: Nets remaining: 24
+Error:  Failure to find route end node/route!
+Finished routing net _2_
+dothirdstage: Nets remaining: 23
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Finished routing net _6_
+dothirdstage: Nets remaining: 22
+Error:  Failure to find route end node/route!
+Finished routing net _14_
+dothirdstage: Nets remaining: 21
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net q[3]
+dothirdstage: Nets remaining: 20
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Finished routing net r[3]
+dothirdstage: Nets remaining: 19
+Error:  Failure to find route end node/route!
+Finished routing net _15_
+dothirdstage: Nets remaining: 18
+Finished routing net _5_
+dothirdstage: Nets remaining: 17
+Finished routing net _0_[0]
+dothirdstage: Nets remaining: 16
+Error:  Failure to find route end node/route!
+Finished routing net _7_
+dothirdstage: Nets remaining: 15
+Error:  Failure to find route end node/route!
+Finished routing net _0_[1]
+dothirdstage: Nets remaining: 14
+Finished routing net _8_
+dothirdstage: Nets remaining: 13
+Error:  Failure to find route end node/route!
+Finished routing net _9_
+dothirdstage: Nets remaining: 12
+Finished routing net _12_
+dothirdstage: Nets remaining: 11
+Finished routing net _0_[2]
+dothirdstage: Nets remaining: 10
+Error:  Failure to find route end node/route!
+Finished routing net _13_
+dothirdstage: Nets remaining: 9
+Error:  Failure to find route end node/route!
+Finished routing net _16_
+dothirdstage: Nets remaining: 8
+Error:  Failure to find route end node/route!
+Finished routing net _0_[3]
+dothirdstage: Nets remaining: 7
+Finished routing net _1_[2]
+dothirdstage: Nets remaining: 6
+Finished routing net _1_[0]
+dothirdstage: Nets remaining: 5
+Error:  Failure to find route end node/route!
+Finished routing net _1_[3]
+dothirdstage: Nets remaining: 4
+Error:  Failure to find route end node/route!
+Finished routing net _1_[1]
+dothirdstage: Nets remaining: 3
+
+----------------------------------------------
+Progress: Stage 3 total routes completed: 145
+Failed net routes: 1
+----------------------------------------------
+*** Running stage2 routing with options break, mask none
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 147
+No failed routes!
+----------------------------------------------
+*** Running stage3 routing with defaults, 2nd round
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Finished routing net clk
+dothirdstage: Nets remaining: 34
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net _4_
+dothirdstage: Nets remaining: 33
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Finished routing net q[1]
+dothirdstage: Nets remaining: 32
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net r[1]
+dothirdstage: Nets remaining: 31
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Finished routing net q[0]
+dothirdstage: Nets remaining: 30
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+thread: Nets remaining: 4
+route_postponed_nets: Box of clk still overlaps. Post-Pony-ing
+route_postponed_nets: routing net _4_
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net _4_
+dofirststage_thread: Nets remaining: 3
+route_postponed_nets: routing net clk
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+dofirststage_thread: Finished routing net clk
+dofirststage_thread: Nets remaining: 2
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code -1
+route_segs: Exiting with code -1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: ExiFinished routing net r[0]
+dothirdstage: Nets remaining: 29
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net _3_
+dothirdstage: Nets remaining: 28
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Finished routing net clr
+dothirdstage: Nets remaining: 27
+Error:  Failure to find route start node/route!
+Finished routing net _10_
+dothirdstage: Nets remaining: 26
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net q[2]
+dothirdstage: Nets remaining: 25
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+dothirdstage: Failed to route net r[2]
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net _11_
+dothirdstage: Nets remaining: 24
+Error:  Failure to find route end node/route!
+Finished routing net _2_
+dothirdstage: Nets remaining: 23
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Finished routing net _6_
+dothirdstage: Nets remaining: 22
+Error:  Failure to find route end node/route!
+Finished routing net _14_
+dothirdstage: Nets remaining: 21
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Finished routing net q[3]
+dothirdstage: Nets remaining: 20
+Error:  Failure to find route end node/route!
+Error:  Failure to find route start node/route!
+Error:  Failure to find route end node/route!
+Finished routing net r[3]
+dothirdstage: Nets remaining: 19
+Error:  Failure to find route end node/route!
+Finished routing net _15_
+dothirdstage: Nets remaining: 18
+Finished routing net _5_
+dothirdstage: Nets remaining: 17
+Finished routing net _0_[0]
+dothirdstage: Nets remaining: 16
+Error:  Failure to find route end node/route!
+Finished routing net _7_
+dothirdstage: Nets remaining: 15
+Error:  Failure to find route end node/route!
+Finished routing net _0_[1]
+dothirdstage: Nets remaining: 14
+Error:  Failure to find route end node/route!
+Finished routing net _8_
+dothirdstage: Nets remaining: 13
+Error:  Failure to find route end node/route!
+Finished routing net _9_
+dothirdstage: Nets remaining: 12
+Finished routing net _12_
+dothirdstage: Nets remaining: 11
+Finished routing net _0_[2]
+dothirdstage: Nets remaining: 10
+Error:  Failure to find route end node/route!
+Finished routing net _13_
+dothirdstage: Nets remaining: 9
+Error:  Failure to find route end node/route!
+Finished routing net _16_
+dothirdstage: Nets remaining: 8
+Error:  Failure to find route end node/route!
+Finished routing net _0_[3]
+dothirdstage: Nets remaining: 7
+Finished routing net _1_[2]
+dothirdstage: Nets remaining: 6
+Finished routing net _1_[0]
+dothirdstage: Nets remaining: 5
+Error:  Failure to find route end node/route!
+Finished routing net _1_[3]
+dothirdstage: Nets remaining: 4
+Error:  Failure to find route end node/route!
+Finished routing net _1_[1]
+dothirdstage: Nets remaining: 3
+
+----------------------------------------------
+Progress: Stage 3 total routes completed: 219
+Failed net routes: 1
+----------------------------------------------
+*** Running stage2 routing with options break, mask none
+Error:  Failure to find route end node/route!
+Error:  Failure to find route end node/route!
+
+----------------------------------------------
+Progress: Stage 2 total routes completed: 221
+No failed routes!
+----------------------------------------------
+*** Writing DEF file counter_route.def
+----------------------------------------------
+Final: No failed routes!
+----------------------------------------------
+No driver for net clk
+No driver for net _4_
+Walking net q[1].
+Has 5 nodes.
+After segmenting, has 6 routes.
+Driver node DFFPOSX1_1/Q
+Connects to 526, 242, 0
+Connects to 490, 242, 1
+Connects to 490, 242, 0
+Connects to 526, 242, 1
+Route segment 5 was not walked!
+No driver for net r[1]
+No driver for net q[0]
+Walking net r[0].
+Has 4 nodes.
+After segmenting, has 4 routes.
+Driver node DFFPOSX1_4/Q
+Route segment 0 was not walked!
+Route segment 1 was not walked!
+Route segment 2 was not walked!
+No driver for net _3_
+No driver for net clr
+Walking net _10_.
+Has 4 nodes.
+After segmenting, has 5 routes.
+Driver node OAI21X1_2/Y
+Connects to 420, 46, 1
+Connects to 430, 44, 0
+Connects to 420, 46, 1
+Walking net q[2].
+Has 4 nodes.
+After segmenting, has 4 routes.
+Driver node DFFPOSX1_2/Q
+Connects to 230, 45, 0
+Walking net r[2].
+Has 4 nodes.
+After segmenting, has 6 routes.
+Driver node DFFPOSX1_6/Q
+Route segment 0 was not walked!
+Route segment 1 was not walked!
+Route segment 2 was not walked!
+Route segment 3 was not walked!
+Route segment 4 was not walked!
+Walking net _11_.
+Has 4 nodes.
+After segmenting, has 5 routes.
+Driver node XOR2X1_1/Y
+Connects to 393, 44, 1
+Connects to 431, 45, 0
+Connects to 393, 44, 1
+Walking net _2_.
+Has 3 nodes.
+After segmenting, has 2 routes.
+Driver node NAND2X1_0/Y
+Route segment 1 was not walked!
+Walking net _6_.
+Has 3 nodes.
+After segmenting, has 2 routes.
+Driver node XOR2X1_0/Y
+Route segment 1 was not walked!
+Walking net _14_.
+Has 3 nodes.
+After segmenting, has 2 routes.
+Driver node AOI21X1_2/Y
+Route segment 1 was not walked!
+No driver for net q[3]
+No driver for net r[3]
+Walking net _15_.
+Has 3 nodes.
+After segmenting, has 2 routes.
+Driver node XNOR2X1_0/Y
+Route segment 1 was not walked!
+Walking net _5_.
+Has 2 nodes.
+After segmenting, has 1 routes.
+Driver node OAI21X1_0/Y
+Walking net _0_[0].
+Has 2 nodes.
+After segmenting, has 1 routes.
+Driver node NOR2X1_0/Y
+No driver for net _7_
+No driver for net _0_[1]
+No driver for net _8_
+No driver for net _9_
+Walking net _12_.
+Has 2 nodes.
+After segmenting, has 1 routes.
+Driver node OAI21X1_3/Y
+Walking net _0_[2].
+Has 2 nodes.
+After segmenting, has 1 routes.
+Driver node AOI21X1_1/Y
+No driver for net _13_
+No driver for net _16_
+No driver for net _0_[3]
+Walking net _1_[2].
+Has 2 nodes.
+After segmenting, has 1 routes.
+Driver node NOR2X1_2/Y
+Walking net _1_[0].
+Has 2 nodes.
+After segmenting, has 1 routes.
+Driver node NOR2X1_3/Y
+No driver for net _1_[3]
+No driver for net _1_[1]
+ting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code -1
+route_segs: Exiting with code -1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+route_segs: Exiting with code 1
+Router script ended on Tue Nov 7 18:22:43 HKT 2017
